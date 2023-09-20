@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color: white;
+}
+.row{
+    /* border: 1px solid red; */
+    height: 100px;
+    /* background-color;: $pink-600;  */
+     /* margin: -12px; */ */
+}
+#row1{ 
+     background-color:rgb(120, 34, 62); 
+     
+}
+#row2{
+    background-color:rgb(185, 66, 105); 
+      margin-top: -25px;  */
+}
+#row3{
+    background-color:rgb(238, 96, 143);
+    margin-top: -25px;
+}
+#row4{
+    background-color:rgb(217, 147, 168); 
+     margin-top: -30px; 
+}
+#row5{
+    height: 40px;
+    margin-top: -20px; 
+    margin-left: 5px;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    color: aliceblue;
+}
+.col{
+     border: 1px solid rgba(255, 166, 0, 0.819); 
+    background: rgb(241, 230, 235);
+    /* margin-left: 7px; */
+    /* margin-right: 7px; */
+    /* padding: 50; */
+}
