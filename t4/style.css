@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* background: red; */
+    /* border: 2px solid black; */
+}
+.row{
+    background: white;
+    border: 1px solid rgb(28, 27, 27);
+    /* margin: 0; */
+    
+}
+/*
+#row1{
+    height: 200px;
+}
+#row2{
+    height: 175px;
+}
+#row3{
+    height: 150px;
+}*/
+.margin{
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.margin1{
+    margin-left: 1px;
+    /* margin-right: 1px; */
+}
+.col-4{
+    background: white;
+    border: 1px solid rgb(17, 17, 18);
+     /* margin-left: 2px;  */
+}

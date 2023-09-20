@@ -1,0 +1,35 @@
+.container{
+    /* border: 2px solid red ; */
+    padding-top: 25px;
+}
+/* .row{ 
+    border: 2px solid rgb(138, 134, 134) ;
+}*/
+.col-9,.col-3{
+    border-bottom: 2px solid gainsboro ;
+}
+.gray{
+    background-color: gainsboro;
+    
+}
+.lightgray{
+    background-color: rgb(230, 227, 227);
+}
+
+.display-4{
+    font-size: 50px;
+}
+.lead{
+    font-size: 15px;
+    padding-bottom: 25px;
+}
+.card{
+    padding: 0;
+    margin-top: 2px;
+}
+.card-title{
+    font-size: 35px;
+}
+.card-text{
+    font-size: 12px;
+}

@@ -1,0 +1,39 @@
+.container{
+    /* background-color: blueviolet; */
+    /* border: 2px solid black; */
+}
+.row{
+    /* background-color: brown; */
+    /* border: 2px solid red; */
+    background: rgb(168, 67, 84);
+    height: 60px;
+    /* color: whitesmoke;  */
+}
+.col,.col1,.col2,col3,.col4,.col5{
+    /* border: 1px solid rgb(0, 255, 21); */
+    text-align: center;
+    /* color: whitesmoke: black; */
+}
+.col1,.col3{
+    background: lightblue;
+}
+.col2{
+    background: rgb(248, 210, 216);
+}
+.col4{
+    background: rgb(66, 110, 66);
+}
+.col5{
+    background: rgb(214, 51, 51);
+}
+/*p{
+    color: whitesmoke; 
+}*/
+#row1{
+    height: auto;
+    border-left: 10px solid orange;
+    color: white; 
+    margin-right: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
