@@ -1,0 +1,87 @@
+.container-fluid{
+    /* border: 2px solid blueviolet; */
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.col-3{
+  /* border: 2px solid royalblue; */
+}
+.darkblue{
+    background-color: #130f40;
+}
+.greenland_green{
+    background: #22a6b3;
+}
+
+.nav-link{
+    color: rgb(227, 222, 222);
+    font-size: 12px;
+  }
+  .btn {
+    background-color: white; */
+    border: none;
+    color: black;
+    padding: 12px 30px; 
+    cursor: pointer;
+    font-size: 12px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: rgb(157, 179, 247);
+  }
+  .btn2{
+    color: white;
+  }
+ .bi-star-fill{
+  width: 250px;
+ }
+ .card-text{
+  font-size: 10px;
+ }
+ .flow2{
+  padding-left: 500px;
+ }
+
+ .gray1{
+  background-color: #353b48;
+}
+.input-group-addon{
+  border: 2px solid white;
+  background-color: gainsboro;
+  /* padding: 10px; */
+  width: 30px;
+  height: 10px;
+}
+.form-control,input{
+  border: 2px solid white;
+  background-color: whitesmoke;
+  height: 42px;
+}
+.icon-black{
+  color: black;
+}
+.bi1 {
+  /* display: inline-block; */
+  padding: 10px 20px;
+  border: 2px solid red;
+}
+.btn1{
+  /* height: 2px; */
+  background-color: whitesmoke;
+  color: rgb(81, 78, 78);
+}
+.text-center{
+  border: none;
+}
+.black{
+background-color:  #2a2f39;
+color: rgb(126, 126, 126);
+/* padding:10px; */
+
+}
+.w-25{
+  width: auto !important;
+  height: auto;
+  /* padding-left: 50px; */
+}

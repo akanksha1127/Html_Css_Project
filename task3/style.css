@@ -1,0 +1,27 @@
+.container-fluid{
+    /* border: 2px solid rebeccapurple; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.nav-link{    
+    color: gray;     
+    font-size: 15px;    
+    font-family: Arial, Helvetica, sans-serif; 
+ }   
+ .btn {    
+     /* background-color: white; */            
+     color: white;    
+      padding: 12px 30px;      
+      cursor: pointer;     
+      font-size: 12px;   }     
+ /* Darker background on mouse-over */   
+ .nav-link:hover {     
+    color: white;   
+    border: none;  
+}
+.gray{
+    background: rgb(226, 225, 225);
+}
+.card-text{
+    font-size: 10px;
+}
